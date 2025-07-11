@@ -216,10 +216,10 @@ GET /records/patient/{patientId}
 
 ## ✅ 8️⃣ 💡 BONUS
 
-✔️ Add a **service layer** between controllers and repositories.
-✔️ Add **DTOs** for input/output.
-✔️ Add **exception handling** (e.g., @ControllerAdvice).
-✔️ Add **Swagger/OpenAPI** documentation.
+- ✔️ Add a **service layer** between controllers and repositories.
+
+- ✔️ Add **exception handling** (e.g., @ControllerAdvice).
+
 
 ---
 
