@@ -237,7 +237,7 @@ GET /records/patient/{patientId}
 
 ---
 
-## ✅ 10️⃣ 💼 Submission
+## ✅ 1️⃣0️⃣ 💼 Submission
 
 Submit:
 
@@ -252,7 +252,7 @@ Submit:
 
 ---
 
-## ✅ 11️⃣ 🎯 Evaluation Criteria
+## ✅ 1️⃣1️⃣ 🎯 Evaluation Criteria
 
 * Correctness: models, validation, custom queries
 * Code quality and structure
@@ -263,7 +263,7 @@ Submit:
 
 ---
 
-## ✅ 12️⃣ 🎓 Learning Objectives
+## ✅ 1️⃣2️⃣ 🎓 Learning Objectives
 
 By the end of this assignment you will be able to:
 
@@ -277,19 +277,19 @@ By the end of this assignment you will be able to:
 
 ## 🚀 **Get started!**
 
-1️⃣ Plan your models and fields.
-2️⃣ Set up MongoDB connection.
-3️⃣ Create repositories.
-4️⃣ Implement validation.
-5️⃣ Expose REST endpoints.
-6️⃣ Test your API!
+* 1️⃣ Plan your models and fields.
+* 2️⃣ Set up MongoDB connection.
+* 3️⃣ Create repositories.
+* 4️⃣ Implement validation.
+* 5️⃣ Expose REST endpoints.
+* 6️⃣ Test your API!
 
 ---
 
 ✅ **Need help?**
 
 * Ask in Slack.
-* Schedule office hours with your instructor.
+* Meet in breakout rooms with your instructor.
 
 ---
 
