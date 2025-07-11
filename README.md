@@ -218,7 +218,7 @@ GET /records/patient/{patientId}
 
 - ✔️ Add a **service layer** between controllers and repositories.
 
-- ✔️ Add **exception handling** (e.g., @ControllerAdvice).
+- ✔️ Add **exception handling** (e.g., [@ControllerAdvice](https://docs.spring.io/spring-framework/reference/web/webflux/controller/ann-advice.html)).
 
 
 ---
